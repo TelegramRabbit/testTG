@@ -8,7 +8,7 @@ const port = 3000;
 // Вставьте ваш Telegram API токен
 const TELEGRAM_API_TOKEN = '7809293668:AAH-cut9N7YyWUQeESZDpNX3yGkMK2CyWK8';
 // Список id пользователей, которым нужно отправлять сообщения
-const USER_IDS = [123456789, 987654321];  // Укажите Telegram ID ваших пользователей
+const USER_IDS = [123456789,  5447904094];  // Укажите Telegram ID ваших пользователей
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
